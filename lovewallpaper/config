@@ -1,0 +1,11 @@
+[Config]
+uuid = 
+platform =
+
+[Path]
+download = 
+
+[Slide]
+freeze = 1
+slide = 0
+
